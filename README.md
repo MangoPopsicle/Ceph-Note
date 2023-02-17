@@ -1,0 +1,4 @@
+# Ceph-Note
+ceph学习过程中使用obsidian记录笔记的备份，github中图片无法正常查看（均在各目录的同级attachment目录下），以及包含一些obsidian的特殊格式，需要使用obsidian打开。
+
+配合使用的obsidian插件：Admonition
